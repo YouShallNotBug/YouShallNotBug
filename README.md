@@ -10,12 +10,6 @@ Je suis passionné par la création d’expériences interactives. Depuis que j'
 - **Technologies** : Unity, Git, Rider, Visual Studio
 - **Version Control** : Git, GitHub
 
-## 🌟 Projets en cours
-- **Nombre Magique** : Petit jeu console en C# où le joueur doit deviner un nombre entre 1 et 10.  
-  [Voir le projet](lien_vers_le_projet)
-- **Prototype Flappy Bird like sur Unity** : Un prototype de jeu développé avec Unity, où je mets en avant les mécaniques du jeu Flappy Bird.  
-  [Voir le projet](lien_vers_le_projet)
-
 ## 📚 Ce que j'apprends actuellement
 - **CSS** et **HTML5** pour le frontend.
 - Approfondissement des compétences en **Unity** et **C#**.
