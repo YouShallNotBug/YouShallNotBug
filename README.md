@@ -20,8 +20,8 @@ Je suis passionné par la création d’expériences interactives. Depuis que j'
 - Développer des compétences plus approfondies en **Unity** et en **programmation C#**.
 
 ## 📫 Me contacter
-- **Email** : [ton.email@example.com](mailto:ton.email@example.com)
-- **LinkedIn** : [Ton LinkedIn](https://www.linkedin.com/in/ton-nom)
+- **Email** : [YouShallNotBug@gmail.com](mailto:YouShallNotBug@gmail.com)
+- **LinkedIn** : *(à venir)*
 - **Portfolio** : *(à venir)*
 
 ## 🛠️ Technologies
